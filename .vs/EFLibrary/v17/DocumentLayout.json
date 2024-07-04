@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\EFLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE88DE7-9C54-4E4E-AE31-5B45CC01594F}|EFLibrary\\EFLibrary.csproj|c:\\users\\user\\source\\repos\\eflibrary\\eflibrary\\dal\\librarydbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE88DE7-9C54-4E4E-AE31-5B45CC01594F}|EFLibrary\\EFLibrary.csproj|solutionrelative:eflibrary\\dal\\librarydbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE88DE7-9C54-4E4E-AE31-5B45CC01594F}|EFLibrary\\EFLibrary.csproj|c:\\users\\user\\source\\repos\\eflibrary\\eflibrary\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE88DE7-9C54-4E4E-AE31-5B45CC01594F}|EFLibrary\\EFLibrary.csproj|solutionrelative:eflibrary\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE88DE7-9C54-4E4E-AE31-5B45CC01594F}|EFLibrary\\EFLibrary.csproj|c:\\users\\user\\source\\repos\\eflibrary\\eflibrary\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE88DE7-9C54-4E4E-AE31-5B45CC01594F}|EFLibrary\\EFLibrary.csproj|solutionrelative:eflibrary\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE88DE7-9C54-4E4E-AE31-5B45CC01594F}|EFLibrary\\EFLibrary.csproj|c:\\users\\user\\source\\repos\\eflibrary\\eflibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE88DE7-9C54-4E4E-AE31-5B45CC01594F}|EFLibrary\\EFLibrary.csproj|solutionrelative:eflibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryDBContex.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EFLibrary\\EFLibrary\\DAL\\LibraryDBContex.cs",
+              "RelativeDocumentMoniker": "EFLibrary\\DAL\\LibraryDBContex.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EFLibrary\\EFLibrary\\DAL\\LibraryDBContex.cs",
+              "RelativeToolTip": "EFLibrary\\DAL\\LibraryDBContex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:20:31.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EFLibrary\\EFLibrary\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "EFLibrary\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EFLibrary\\EFLibrary\\Entities\\Book.cs",
+              "RelativeToolTip": "EFLibrary\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:56:33.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EFLibrary\\EFLibrary\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "EFLibrary\\Entities\\Genre.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EFLibrary\\EFLibrary\\Entities\\Genre.cs",
+              "RelativeToolTip": "EFLibrary\\Entities\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:55:29.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EFLibrary\\EFLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "EFLibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EFLibrary\\EFLibrary\\Program.cs",
+              "RelativeToolTip": "EFLibrary\\Program.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAcwKkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:54:21.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
